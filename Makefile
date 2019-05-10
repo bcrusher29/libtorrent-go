@@ -1,5 +1,5 @@
 NAME = libtorrent-go
-GO_PACKAGE = github.com/steeve/$(NAME)
+GO_PACKAGE = github.com/bcrusher29/$(NAME)
 CC = cc
 CXX = c++
 PKG_CONFIG = pkg-config
